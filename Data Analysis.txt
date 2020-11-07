@@ -1,0 +1,13 @@
+Part 1 Analysis:
+The Northern Hemisphere is more effected by temparature than the Southern Hemisphere. 
+This is proven by observing the r-values of 0.802 (Northen Hemisphere) and an r-value of 0.394
+(Southern Hemisphere).
+When reviewing the affects of Humidity although these is less of an effect, there is a slight effect. 
+The Northern Hemisphere has an r-value of 0.106 in relation to Humidity and the Southern Hemisphere 
+only has a r-value of 0.007.
+Cloudiness overall does effect which Hemisphere a city resides however the correlation is so low, 
+it's more random.
+To acheive a better reading of the effects of Cloudiness, more data would be needed.
+
+Part 2 Analysis:
+Image included in Github as heat_map krf
